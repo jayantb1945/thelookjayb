@@ -47,7 +47,7 @@
       type: range_slider
       display: inline
       options: []
-    model: thelook
+    model: thelook_jayb
     explore: users
     listens_to_filters: []
     field: users.age
@@ -61,7 +61,7 @@
       type: button_group
       display: inline
       options: []
-    model: thelook
+    model: thelook_jayb
     explore: users
     listens_to_filters: []
     field: users.gender
